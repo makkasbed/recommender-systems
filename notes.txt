@@ -1,0 +1,9 @@
+recommendation: is making a suggestion
+recommendation gives you a set of good choices.
+
+
+prediction: is saying it as it is.
+prediction helps you quantify
+
+Predictions estimate a person’s rating (or liking/consumption) of an item; recommendations 
+select items for the person from a larger set.  

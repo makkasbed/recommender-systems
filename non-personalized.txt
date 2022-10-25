@@ -1,0 +1,16 @@
+1. Support
+This measure gives an idea of how frequent an itemset is in all the transactions.
+support = transactions containing both x and y/total number of transactions
+
+2. Confidence
+This measure defines the likeliness of occurrence of consequent on the cart given 
+that the cart already has the antecedents.
+
+confidence = transactions containing both x and y/transactions containing x
+
+3. Lift
+Lift controls for the support (frequency) of consequent while calculating 
+the conditional probability of occurrence of {Y} given {X}. 
+Lift is a very literal term given to this measure.
+
+lift = (transactions containing both x and y/transactions containing x)/fraction of transactions containing y
